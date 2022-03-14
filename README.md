@@ -1,7 +1,7 @@
 ## MichelBNasc
 <div align="center">
   <a href="https://github.com/MichelBNasc">
-  <img height="137em"src="https://media.discordapp.net/attachments/952959093923004497/952964469389144114/spray_762_fundo_branco_p_luminosa_colorgin1__1_-removebg-preview_1.png">
+  <img height="137em"src="https://media.discordapp.net/attachments/952959093923004497/952968355185315961/01052e0aae43d0148ad741030ddd1a18.gif">
   <img height="138em" src="https://github-readme-stats.vercel.app/api?username=MichelBNasc&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
   <img height="138em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichelBNasc&layout=compact&langs_count=7&theme=calm"/>
   
