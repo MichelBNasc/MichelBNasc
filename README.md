@@ -4,6 +4,12 @@
   <img height="138em"src="https://media.discordapp.net/attachments/952959093923004497/952968355185315961/01052e0aae43d0148ad741030ddd1a18.gif">
   <img height="138em" src="https://github-readme-stats.vercel.app/api?username=MichelBNasc&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
   <img height="138em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichelBNasc&layout=compact&langs_count=7&theme=calm"/>
+  <img height="80em"src="https://media.discordapp.net/attachments/952959093923004497/953426663360827412/f9ee5fb374d43fbd707c8a66ff5d09d1.gif">
+    <img height="80em"src="https://media.discordapp.net/attachments/952959093923004497/953426663360827412/f9ee5fb374d43fbd707c8a66ff5d09d1.gif">
+    <img height="80em"src="https://media.discordapp.net/attachments/952959093923004497/953426663360827412/f9ee5fb374d43fbd707c8a66ff5d09d1.gif">
+    <img height="80em"src="https://media.discordapp.net/attachments/952959093923004497/953426663360827412/f9ee5fb374d43fbd707c8a66ff5d09d1.gif">
+    <img height="80em"src="https://media.discordapp.net/attachments/952959093923004497/953426663360827412/f9ee5fb374d43fbd707c8a66ff5d09d1.gif">
+    <img height="80em"src="https://media.discordapp.net/attachments/952959093923004497/953426663360827412/f9ee5fb374d43fbd707c8a66ff5d09d1.gif">
   
 </div>
 
